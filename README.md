@@ -239,7 +239,6 @@ git commit
 ```
 
 
-### cleaning ###
 
 If you want to purge your working directory back to the status of upstream, following commands can be used (remember everything you've worked on is gone after these):
 
